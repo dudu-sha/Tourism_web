@@ -1,2 +1,4 @@
 *.jpg
 *.jpeg
+/bootstrap-5.1.0-dist/*
+/img/*
